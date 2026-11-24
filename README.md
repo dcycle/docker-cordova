@@ -1,4 +1,4 @@
-[![CircleCI](https://circleci.com/gh/dcycle/docker-cordova.svg?style=svg)](https://circleci.com/gh/dcycle/docker-cordova)
+[![GitHub Actions](https://github.com/dcycle/docker-cordova-fork/actions/workflows/config.yml/badge.svg)](../../actions/workflows/config.yml)
 
 Create mobile apps using [cordova](https://cordova.apache.org).
 
