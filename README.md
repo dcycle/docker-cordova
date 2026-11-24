@@ -1,4 +1,4 @@
-[![GitHub Actions](https://github.com/dcycle/docker-cordova-fork/actions/workflows/config.yml/badge.svg)](https://github.com/dcycle/docker-cordova-fork/actions/workflows/config.yml)
+[![GitHub Actions](https://github.com/dcycle/docker-cordova-fork/actions/workflows/config.yml/badge.svg)](../../actions/workflows/config.yml)
 
 Create mobile apps using [cordova](https://cordova.apache.org).
 
